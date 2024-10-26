@@ -1,3 +1,4 @@
+#coffee_app
 import streamlit as st
 import pandas as pd
 from coffee_db import create_tables, add_order, get_orders, add_inventory, get_inventory, update_order_status
