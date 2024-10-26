@@ -1,3 +1,4 @@
+#coffee_db
 import sqlite3
 
 # Database connection
